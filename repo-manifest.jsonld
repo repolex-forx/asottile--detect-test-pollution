@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/detect-test-pollution/commit/64b684098f1df26b150570fe8498cb42918a67aa",
       "git:hexsha": "64b684098f1df26b150570fe8498cb42918a67aa",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/detect-test-pollution/commit/cb049b119f6f6e17287e6cdbf3544c5632b6fd78",

@@ -1,0 +1,7 @@
+[2026-10-20T11:30:52Z] === AST ITERATION 1 START | repo=asottile/detect-test-pollution sha=64b68409 ===
+[2026-10-20T11:30:52Z] [iter=1] PHASE START: ast repo=asottile/detect-test-pollution sha=64b68409
+[2026-10-20T11:30:52Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T11:30:54Z] [iter=1] AST chunks built count=1 triples=22807
+[2026-10-20T11:30:54Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/64b684098f1df26b150570fe8498cb42918a67aa/.complete
+[2026-10-20T11:30:54Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-20T11:30:54Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
